@@ -1,6 +1,6 @@
 # shayk_assignment
 
-A new Flutter project.
+This is a flutter interview assignment assigned by shayk
 
 ## Getting Started
 
