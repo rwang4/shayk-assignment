@@ -17,8 +17,9 @@ class _TextDialogState extends State<TextDialog> {
 
     _scrollController.addListener(listenScrolling);
   }
-
+  // Scroll listener response when the scrollview is moving
   void listenScrolling() {
+    // change the button valibilty to true if the scrollview reaches the bottom
     if (_scrollController.position.atEdge) {
       if (_scrollController.position.pixels != 0) {
         setState(() {
@@ -34,6 +35,7 @@ class _TextDialogState extends State<TextDialog> {
     }
   }
 
+  // Read all text from the text file inside assets
   Future<String> getTextFromFile(BuildContext context) async {
     return await DefaultAssetBundle.of(context)
         .loadString('assets/applecare_agreement.txt');
@@ -41,6 +43,7 @@ class _TextDialogState extends State<TextDialog> {
 
   @override
   Widget build(BuildContext context) {
+    // Pop up dialog
     return Dialog(
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(16.0),
@@ -50,6 +53,7 @@ class _TextDialogState extends State<TextDialog> {
     );
   }
 
+  // Dialog Content with a Scrollview and two buttons
   Widget dialogContent(BuildContext context) {
     return Container(
       margin: const EdgeInsets.only(left: 0.0, right: 0.0),
@@ -91,6 +95,7 @@ class _TextDialogState extends State<TextDialog> {
     );
   }
 
+  // Pop back from the dialog
   Widget closeButton() {
     return Positioned(
       top: 0,
@@ -104,9 +109,11 @@ class _TextDialogState extends State<TextDialog> {
     );
   }
 
+  // Agree Button disable if the scrollview doesn't reach the bottom
   Widget displayButton() {
     if (scrollBottom) {
       return InkWell(
+        // TODO: Create a PDF document with the text and send it by email
         onTap: () {
           const popUpText = SnackBar(
             content: Text(
@@ -174,6 +181,7 @@ class _TextDialogState extends State<TextDialog> {
     }
   }
 
+  // Display the text content
   Widget textContent() {
     return FutureBuilder(
       future: getTextFromFile(context),
