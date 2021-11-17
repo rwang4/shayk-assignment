@@ -1,0 +1,73 @@
+How Consumer Rights Affect this Plan
+
+FOR CONSUMERS IN JURISDICTIONS WHO HAVE THE BENEFIT OF CONSUMER PROTECTION LAWS OR REGULATIONS, THE BENEFITS CONFERRED BY THE ABOVE MENTIONED PLANS ARE IN ADDITION TO ALL RIGHTS AND REMEDIES PROVIDED UNDER SUCH LAWS AND REGULATIONS. NOTHING IN THIS PLAN SHALL PREJUDICE CONSUMER RIGHTS GRANTED BY APPLICABLE MANDATORY LAWS, INCLUDING CONSUMER’S RIGHT TO THE REMEDIES UNDER STATUTORY WARRANTY LAW AND TO SEEK DAMAGES IN THE EVENT OF TOTAL OR PARTIAL NON-PERFORMANCE OR INADEQUATE PERFORMANCE BY APPLE OF ANY OF ITS CONTRACTUAL OBLIGATIONS.
+
+1. The Plan
+
+This contract governs the hardware services and technical support provided to you by Apple under the above-mentioned plans (each referred to herein as the “Plan”) for the Apple-branded product and the Apple-branded accessories contained in its original packaging (“Covered Equipment”) listed on your proof of coverage document (“Plan Confirmation”). 
+
+The terms of the Plan apply the same whether paid for on a one-time basis (“Single-Pay Plan”) or a monthly basis (“Monthly Pay Plan”) unless otherwise noted. Your Plan may be paid by you or a third party who finances or otherwise pays for your Plan (a “Plan Payment Provider”).
+
+2. When Coverage Begins and Ends
+
+Coverage begins when you purchase the Plan and ends on the date specified in your Plan Confirmation (“Coverage Period”). To obtain your Plan Confirmation, register your Covered Equipment and your Plan’s registration number (“Plan Agreement Number”) with Apple. If auto-registration is available, you may receive a separate Plan Confirmation.  If auto-registration is available and you do not receive a separate Plan Confirmation, your original sales receipt will be your Plan Confirmation. The terms of this Plan, the original sales receipt for your Plan and the Plan Confirmation are each part of your service contract. The price of the Plan is contained in the original sales receipt as provided by Apple or another seller from whom you’ve purchased your Plan (a “Reseller”), or your Plan Payment Provider. The hardware service and technical support coverage provided by the Plan is additional to the coverage provided by the manufacturer’s hardware warranty and complimentary technical support.
+
+For Monthly Pay Plans (where available), you agree to have the credit card, debit card or other authorized payment source i.e. Apple Pay (the “Payment Source”) used for your Plan purchase (or your first Plan payment where not otherwise paid for by a Plan Payment Provider) kept on file to automatically charge in advance of the first day of each month following your initial payment. If your Payment Source cannot be charged for any reason, and you have not otherwise made the appropriate monthly payment on time, your Plan coverage will cease from the due date. Apple has the right, but not the obligation, to accept any late payment and allow your Plan to continue from the date of late payment.
+
+3. What is Covered?
+
+3.1 Hardware Service
+
+If during the Coverage Period, you submit a valid claim by notifying Apple that (i) a defect in materials and workmanship has arisen in the Covered Equipment, or (ii) the capacity of a covered battery to hold an electrical charge is less than eighty percent (80%) of its original specifications, Apple will either (a) repair the defect at no charge, using new or refurbished parts that are equivalent to new in performance and reliability, or (b) exchange the Covered Equipment with a replacement product that is new or equivalent to new in performance and reliability, and is at least functionally equivalent to the original product. If Apple exchanges the Covered Equipment, the original product becomes Apple’s property and the replacement product is your property with coverage for the remaining period of the Plan. Apple may use Covered Equipment or replacement parts for service that are sourced from a country that is different from the country from which the Covered Equipment or original parts were sourced.
+
+3.2 Technical Support
+
+During the Coverage Period, Apple will provide you with access to telephone and web-based technical support resources. Technical support may include assistance with installation, launch, configuration, troubleshooting, and recovery (except for data recovery), including storing, retrieving, and managing files; interpreting system error messages; and determining when hardware service is required. Apple will provide support for the then-current version of the supported software, and the prior Major Release. For purposes of this section, "Major Release" means a significant version of software that is commercially released by Apple in a release number format such as "1.0" or "2.0" and which is not in beta or pre-release form. The scope of technical support provided to you will vary according to your Plan.
+
+3.3 Scope of Technical Support
+
+Apple will provide technical support for the Covered Equipment, software applications that are pre-installed with the Covered Equipment (“tvOS”) and connectivity issues between the Covered Equipment and a laptop or desktop computer, a compatible television, or other compatible wireless device that meets the Covered Equipment’s connectivity specifications and runs an operating system supported by the Covered Equipment.
+
+4. What is not Covered?
+
+4.1 Hardware Service
+
+The Plan does not apply to:
+
+(a) Installation, removal or disposal of the Covered Equipment, or the provision of equipment while the Covered Equipment is being serviced; 
+
+(b) Damage caused by (i) a product that is not the Covered Equipment, (ii) accident, abuse, misuse, liquid contact, fire, earthquake or other external cause, (iii) operating the Covered Equipment outside the permitted or intended uses described by the manufacturer, or (iv) service (including upgrades and expansions) performed by anyone who is not a representative of Apple or an Apple Authorized Service Provider (“AASP”); 
+
+(c) Covered Equipment with a serial number that has been altered, defaced or removed, or has been modified to alter its functionality or capability without the written permission of the manufacturer;
+
+(d) Covered Equipment that has been lost or stolen. This Plan only covers Covered Equipment that is returned to Apple in its entirety; 
+
+(e) Cosmetic damage to the Covered Equipment including but not limited to scratches, dents and broken plastic on ports; 
+
+(f) Consumable parts, such as batteries, except in respect of battery coverage under APP for Apple TV or unless failure has occurred due to a defect in materials and workmanship; 
+
+(g) Preventative maintenance on the Covered Equipment; or
+
+(h) Defects caused by normal wear and tear or otherwise due to normal aging of the product. 
+
+4.2 Technical Support
+
+The Plan does not include:
+
+(a) Issues that could be resolved by upgrading software to the then current version; 
+
+(b) Your use of or modification to the Covered Equipment, tvOS, or Apple-branded software applications that are designed to operate with the Covered Equipment (“Consumer Software”) in a manner for which the Covered Equipment or software is not intended to be used or modified; 
+
+(c) Third-party products or software or their effects on or interactions with the Covered Equipment, tvOS, or Consumer Software; 
+
+(d) Your use of a computer or operating system that is unrelated to the tvOS or connectivity issues with the Covered Equipment; 
+
+(e) any Apple-branded software designated as “beta”, “prerelease,” or “preview” or similarly labeled software; 
+
+(f) Third-party web browsers, email applications, and Internet service provider software, or the operating system configurations necessary for their use; or 
+
+(g) Damage to, or loss of any software or data residing or recorded on the Covered Equipment. Recovery and reinstallation of software programs and user data are not covered under this Plan.
+
+5. How to Obtain Service and Support?
+
+You may obtain hardware services and technical support by accessing the Apple website (apple.com/support) or calling the telephone number listed below. If calling, an Apple technical support representative will answer, request your Plan Agreement Number or Covered Equipment serial number, before providing assistance. Keep your Plan Confirmation document and the original sales receipt for your Covered Equipment and your Plan, as it will be required if there is any question as to your product’s eligibility for coverage.
