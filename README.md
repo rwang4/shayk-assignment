@@ -1,4 +1,4 @@
-# shayk_assignment
+# Shayk Assignment
 
 This is a flutter interview assignment assigned by shayk
 
